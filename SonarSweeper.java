@@ -1,20 +1,14 @@
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileReader;
-import java.io.IOException;
-import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Solution to solve Advent of Code 2021.
- * D1 - Sonor Sweep
+ * Solution to Day 1 - Sonar Sweep.
  * 
  * @author bluebillxp
  */
 public class SonarSweeper {
     
     public static void main(String[] args) {
-        List<String> input = inputToList("input-sonarsweep");
+        List<String> input = AdventHelper.readInput("input-day1-sonar-sweep.txt");
         System.out.println("Sonar Sweep: " + input.size() + " depths loaded.");
 
         System.out.println("Sonar Sweep --- Part One ---");
@@ -62,21 +56,5 @@ public class SonarSweeper {
             }
         }
         return incCnt;
-    }
-
-    private static List<String> inputToList(String path) {
-        List<String> list = new ArrayList<>();
-        File input = new File("input-sonarsweep.txt");
-        try (BufferedReader br
-                = new BufferedReader(new FileReader(input))) {
-            String line;
-            while ((line = br.readLine()) != null) {
-                list.add(line);
-                // System.out.println("Input:  " + line);
-            }
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-        return list;
     }
 }
