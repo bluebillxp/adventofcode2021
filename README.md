@@ -20,3 +20,13 @@ Solution: [SubmarinePilot.java](SubmarinePilot.java)
 
 ### Part Two:
 `What do you get if you multiply your final horizontal position by your final depth?`
+
+## Day 3: Binary Diagnostic
+Challenge: https://adventofcode.com/2021/day/3
+Solution: [SubmarineDiagnostor.java](SubmarineDiagnostor.java)
+
+### Part One:
+`What is the power consumption of the submarine?`
+
+### Part Two:
+`What is the life support rating of the submarine?`
