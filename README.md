@@ -59,3 +59,14 @@ Solution: [HydrothermalVentSaver.java](HydrothermalVentSaver.java)
 
 ### Part Two:
 `Consider all of the lines. At how many points do at least two lines overlap?`
+
+## Day 6: Lanternfish
+Challenge: https://adventofcode.com/2021/day/6
+
+Solution: [LanternfishModel.java](LanternfishModel.java)
+
+### Part One:
+`How many lanternfish would there be after 80 days?`
+
+### Part Two:
+`How many lanternfish would there be after 256 days?`
