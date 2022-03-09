@@ -70,3 +70,14 @@ Solution: [LanternfishModel.java](LanternfishModel.java)
 
 ### Part Two:
 `How many lanternfish would there be after 256 days?`
+
+## Day 7: The Treachery of Whales
+Challenge: https://adventofcode.com/2021/day/7
+
+Solution: [CrabSubmarineFuelSaver.java](CrabSubmarineFuelSaver.java)
+
+### Part One:
+`How much fuel must they spend to align to that position?`
+
+### Part Two:
+`How much fuel must they spend to align to that position?`
