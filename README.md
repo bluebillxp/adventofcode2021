@@ -48,3 +48,14 @@ Solution: [BingoSubsystem.java](BingoSubsystem.java)
 
 ### Part Two:
 `Once it wins, what would its final score be?`
+
+## Day 5: Hydrothermal Venture
+Challenge: https://adventofcode.com/2021/day/5
+
+Solution: [HydrothermalVentSaver.java](HydrothermalVentSaver.java)
+
+### Part One:
+`Consider only horizontal and vertical lines. At how many points do at least two lines overlap?`
+
+### Part Two:
+`Consider all of the lines. At how many points do at least two lines overlap?`
