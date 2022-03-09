@@ -1,8 +1,13 @@
 # Advent of Code 2021
 My solution to [adventofcode 2021](https://adventofcode.com/2021).
 
+Language: `Java`
+
+IDE: `Visual Studio Code`
+
 ## Day 1: Sonar Sweep
 Challenge: https://adventofcode.com/2021/day/1
+
 Solution: [SonarSweeper.java](SonarSweeper.java)
 
 ### Part One:
@@ -13,6 +18,7 @@ Solution: [SonarSweeper.java](SonarSweeper.java)
 
 ## Day 2: Dive!
 Challenge: https://adventofcode.com/2021/day/2
+
 Solution: [SubmarinePilot.java](SubmarinePilot.java)
 
 ### Part One:
@@ -23,6 +29,7 @@ Solution: [SubmarinePilot.java](SubmarinePilot.java)
 
 ## Day 3: Binary Diagnostic
 Challenge: https://adventofcode.com/2021/day/3
+
 Solution: [SubmarineDiagnostor.java](SubmarineDiagnostor.java)
 
 ### Part One:
@@ -30,3 +37,14 @@ Solution: [SubmarineDiagnostor.java](SubmarineDiagnostor.java)
 
 ### Part Two:
 `What is the life support rating of the submarine?`
+
+## Day 4: Giant Squid
+Challenge: https://adventofcode.com/2021/day/4
+
+Solution: [BingoSubsystem.java](BingoSubsystem.java)
+
+### Part One:
+`What will your final score be if you choose that board?`
+
+### Part Two:
+`Once it wins, what would its final score be?`
