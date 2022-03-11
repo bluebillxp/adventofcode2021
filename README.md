@@ -92,3 +92,14 @@ Solution: [SevenSegmentDecoder.java](SevenSegmentDecoder.java)
 
 ### Part Two:
 `What do you get if you add up all of the output values?`
+
+## Day 9: Smoke Basin
+Challenge: https://adventofcode.com/2021/day/9
+
+Solution: [HeightmapReader.java](HeightmapReader.java)
+
+### Part One:
+`What is the sum of the risk levels of all low points on your heightmap?`
+
+### Part Two:
+`What do you get if you multiply together the sizes of the three largest basins?`
