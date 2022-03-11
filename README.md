@@ -81,3 +81,14 @@ Solution: [CrabSubmarineFuelSaver.java](CrabSubmarineFuelSaver.java)
 
 ### Part Two:
 `How much fuel must they spend to align to that position?`
+
+## Day 8: Seven Segment Search
+Challenge: https://adventofcode.com/2021/day/8
+
+Solution: [SevenSegmentDecoder.java](SevenSegmentDecoder.java)
+
+### Part One:
+`In the output values, how many times do digits 1, 4, 7, or 8 appear?`
+
+### Part Two:
+`What do you get if you add up all of the output values?`
