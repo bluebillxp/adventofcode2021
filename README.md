@@ -103,3 +103,14 @@ Solution: [HeightmapReader.java](HeightmapReader.java)
 
 ### Part Two:
 `What do you get if you multiply together the sizes of the three largest basins?`
+
+## Day 10: Syntax Scoring
+Challenge: https://adventofcode.com/2021/day/10
+
+Solution: [SyntaxScorer.java](SyntaxScorer.java)
+
+### Part One:
+`What is the total syntax error score for those errors?`
+
+### Part Two:
+`Find the completion string for each incomplete line, score the completion strings, and sort the scores. What is the middle score?`
