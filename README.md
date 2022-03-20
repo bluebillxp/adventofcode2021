@@ -114,3 +114,14 @@ Solution: [SyntaxScorer.java](SyntaxScorer.java)
 
 ### Part Two:
 `Find the completion string for each incomplete line, score the completion strings, and sort the scores. What is the middle score?`
+
+## Day 11: Dumbo Octopus
+Challenge: https://adventofcode.com/2021/day/11
+
+Solution: [OctopusFlashNavigator.java](OctopusFlashNavigator.java)
+
+### Part One:
+`How many total flashes are there after 100 steps?`
+
+### Part Two:
+`What is the first step during which all octopuses flash?`
