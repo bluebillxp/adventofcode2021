@@ -8,7 +8,7 @@ import java.util.Stack;
  * 
  * @author bluebillxp
  */
-public class SyntaxChecker {
+public class SyntaxScorer {
     public static void main(String[] args) {
     
         List<String> input = AdventHelper.readInput("input-day10-syntax-scoring.txt");

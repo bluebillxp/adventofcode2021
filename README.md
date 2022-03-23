@@ -125,3 +125,14 @@ Solution: [OctopusFlashNavigator.java](OctopusFlashNavigator.java)
 
 ### Part Two:
 `What is the first step during which all octopuses flash?`
+
+## Day 12: Passage Pathing
+Challenge: https://adventofcode.com/2021/day/12
+
+Solution: [PathExplorer.java](PathExplorer.java)
+
+### Part One:
+`How many paths through this cave system are there that visit small caves at most once?`
+
+### Part Two:
+`Given these new rules, how many paths through this cave system are there?`
