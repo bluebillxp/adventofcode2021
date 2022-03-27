@@ -136,3 +136,14 @@ Solution: [PathExplorer.java](PathExplorer.java)
 
 ### Part Two:
 `Given these new rules, how many paths through this cave system are there?`
+
+## Day 13: Transparent Origami
+Challenge: https://adventofcode.com/2021/day/13
+
+Solution: [ManualDecoder.java](ManualDecoder.java)
+
+### Part One:
+`How many dots are visible after completing just the first fold instruction on your transparent paper?`
+
+### Part Two:
+`What code do you use to activate the infrared thermal imaging camera system?`
