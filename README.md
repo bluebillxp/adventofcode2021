@@ -147,3 +147,14 @@ Solution: [ManualDecoder.java](ManualDecoder.java)
 
 ### Part Two:
 `What code do you use to activate the infrared thermal imaging camera system?`
+
+## Day 14: Extended Polymerization
+Challenge: https://adventofcode.com/2021/day/14
+
+Solution: [PolymerFactory.java](PolymerFactory.java)
+
+### Part One:
+`10 steps - What do you get if you take the quantity of the most common element and subtract the quantity of the least common element?`
+
+### Part Two:
+`40 steps - What do you get if you take the quantity of the most common element and subtract the quantity of the least common element?`
